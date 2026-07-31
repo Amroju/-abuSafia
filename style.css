@@ -59,7 +59,7 @@
   --t:                .2s ease;
 }
 
-html { scroll-behavior: smooth; }
+html { scroll-behavior: smooth; overflow-x: hidden; }
 
 body {
   font-family: var(--font-sans);
@@ -68,6 +68,7 @@ body {
   line-height: var(--line-height);
   font-size: var(--text-base);
   position: relative;
+  overflow-x: hidden;
 }
 
 .keffiyeh-bg {
