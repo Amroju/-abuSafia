@@ -344,14 +344,17 @@ const EMAIL_SUBJECT =
 
 const EMAIL_BODY_DEFAULT = `Gentile Parlamentare,
 
-Le chiedo un intervento urgente contro la nuova legge israeliana (30 marzo 2026) che amplia la pena di morte, applicandola in modo discriminatorio ai palestinesi senza un giusto processo. Mi oppongo alla pena capitale in ogni circostanza. Il caso del dott. Hussam Abu Safiya, direttore dell'ospedale Kamal Adwan, detenuto senza processo e in pericolo di vita, dimostra la gravità di questo sistema.
+Le scrivo per chiederLe un intervento urgente contro la nuova legge israeliana sulla pena di morte e per la tutela delle cittadine e dei cittadini palestinesi detenuti da Israele. Mi oppongo alla pena di morte in ogni circostanza: è una punizione irreversibile, crudele e disumana, incompatibile con il diritto alla vita e con la dignità umana. Secondo Amnesty International e l’Alto Commissario ONU per i Diritti Umani, la recente normativa israeliana amplia il ricorso alla pena capitale in modo discriminatorio, con effetti quasi esclusivamente sui palestinesi e con gravi rischi per il diritto a un processo equo.
 
-Solleciti il Governo italiano a:
-- condannare la legge e chiederne l'abrogazione;
-- intervenire contro l'esecuzione di prigionieri palestinesi;
-- esigere l'accesso della Croce Rossa a tutti i detenuti;
-- sostenere il rilascio di Marwan Barghouti e del dott. Abu Safiya, oltre che degli operatori sanitari palestinesi;
-- promuovere indagini indipendenti su torture e detenzioni arbitrarie.
+Le chiedo quindi di sollecitare il Governo italiano affinché:
+- condanni pubblicamente la legge israeliana sulla pena di morte e chieda la sua immediata abrogazione;
+- agisca in sede diplomatica ed europea per prevenire qualsiasi esecuzione di prigionieri palestinesi;
+- chieda l’accesso immediato e regolare del Comitato Internazionale della Croce Rossa a tutti i detenuti palestinesi;
+- sostenga il rilascio immediato di Marwan Barghouti, in linea con l’ultima decisione dell’Unione Interparlamentare;
+- chieda il rilascio immediato e incondizionato del dott. Hussam Abu Safiya e degli operatori sanitari palestinesi detenuti arbitrariamente;
+- promuova indagini indipendenti su torture, maltrattamenti, negligenza medica e detenzioni arbitrarie, e sostenga misure concrete perché Israele rispetti il diritto internazionale umanitario e dei diritti umani.
+
+Nella pagina seguente ho raccolto le fonti principali e i dati aggiornati sui detenuti, inclusi il numero di donne e minori palestinesi in prigionia.
 
 Le sarei {GRATO_GRATA} se mi comunicasse quali iniziative intende intraprendere.
 
