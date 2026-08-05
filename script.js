@@ -326,13 +326,14 @@ function setupUserForm() {
   const nameInput = document.getElementById("sender-name");
   const addressInput = document.getElementById("sender-address");
   const emailInput = document.getElementById("sender-email");
+  const genderInputs = Array.from(document.querySelectorAll('input[name="sender-gender"]'));
   
   if (!nameInput || !addressInput || !emailInput) {
     console.error("setupUserForm: Input fields not found in DOM");
     return;
   }
 
-  const inputs = [nameInput, addressInput, emailInput];
+  const inputs = [nameInput, addressInput, emailInput, ...genderInputs];
   const updateRoutine = () => {
     try {
       validateUserData();
@@ -392,6 +393,15 @@ function validateUserData() {
     document.getElementById("err-email").style.display = "none";
   }
 
+  const genderChecked = document.querySelector('input[name="sender-gender"]:checked');
+  const errGender = document.getElementById("err-gender");
+  if (!genderChecked) {
+    valid = false;
+    if (errGender) errGender.style.display = "block";
+  } else {
+    if (errGender) errGender.style.display = "none";
+  }
+
   userFormValid = valid;
   
   // Abilita/Disabilita bottoni
@@ -420,10 +430,17 @@ function getDynamicEmailBody() {
   const addressVal = (addressInput && addressInput.value.trim() !== "") ? addressInput.value.trim() : "[Il tuo indirizzo o codice postale]";
   const emailVal = (emailInput && emailInput.value.trim() !== "") ? emailInput.value.trim() : "[Il tuo indirizzo email]";
 
+  const genderChecked = document.querySelector('input[name="sender-gender"]:checked');
+  let gratoGrata = "grato/a";
+  if (genderChecked) {
+    gratoGrata = genderChecked.value === "female" ? "grata" : "grato";
+  }
+
   // Use global regex replacement to ensure ALL occurrences are replaced, even if the template was mutated
   body = body.replace(/{NAME}/g, nameVal);
   body = body.replace(/{ADDRESS}/g, addressVal);
   body = body.replace(/{EMAIL}/g, emailVal);
+  body = body.replace(/{GRATO_GRATA}/g, gratoGrata);
   
   return body;
 }

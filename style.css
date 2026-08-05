@@ -788,6 +788,28 @@ a:hover { color: var(--color-accent-dark); }
   color: var(--cream);
   font-family: var(--font-sans);
 }
+
+.gender-toggle {
+  display: flex;
+  gap: 1rem;
+  margin-top: 0.2rem;
+}
+.gender-option {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  cursor: pointer;
+  font-size: var(--text-sm);
+  color: var(--cream);
+}
+.gender-option input[type="radio"] {
+  accent-color: var(--red-crimson);
+  width: 18px;
+  height: 18px;
+  margin: 0;
+  cursor: pointer;
+}
+
 .input-note {
   font-size: var(--text-xs);
   color: rgba(237,232,220,.6);

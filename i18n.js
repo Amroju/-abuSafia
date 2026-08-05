@@ -20,7 +20,7 @@ const TRANSLATIONS = {
     // Hero
     hero_title: "Liberate il Dott. Hussam Abu Safiya",
     hero_subtitle:
-      "Medico, direttore dell'ospedale Kamal Adwan a Gaza. Detenuto senza processo dal 27 dicembre 2024. La sua vita è in pericolo immediato.",
+      "Medico, direttore dell'ospedale Kamal Adwan a Gaza. Detenuto senza processo dal 27 dicembre 2024, oggi in pericolo di vita — mentre una nuova legge israeliana amplia il ricorso alla pena di morte contro i palestinesi come lui.",
     hero_cta: "Agisci ora",
 
     // Who is
@@ -32,7 +32,7 @@ const TRANSLATIONS = {
     // Problem
     problem_title: "Qual è il problema",
     problem_body:
-      "Il 27 dicembre 2024, le forze israeliane hanno fatto irruzione nell'ospedale Kamal Adwan, arrestando il Dott. Abu Safiya insieme ad altro personale medico e pazienti. Da quel momento è detenuto senza accuse formali né processo, ai sensi della legge israeliana sui «combattenti nemici illegali». Il 10 giugno 2026, la Corte Suprema israeliana ha respinto il suo appello e prolungato la detenzione. Fino ad allora era detenuto nel carcere di Ktzi'ot; è poi stato trasferito in isolamento nel carcere di Ganot e, il 24 giugno 2026, nella struttura sotterranea di interrogatorio Rakefet nel carcere di Nitzan.\n\nDurante una visita legale del 2 luglio 2026, l'avvocato Nasser Odeh lo ha trovato incatenato mani e piedi, con gravi ferite fresche a testa, occhi, orecchie e collo — al punto da faticare a riconoscerlo. Il Dott. Abu Safiya aveva difficoltà a respirare e parlare, appariva estremamente debole ed è più volte sembrato sul punto di perdere conoscenza. Ha riferito al suo avvocato di essere stato aggredito con un martello e bastoni subito dopo l'udienza del 10 giugno, e di subire pestaggi quotidiani dal 24 giugno, senza cure mediche adeguate.\n\nIl caso si inserisce in un contesto più ampio: il 30 marzo 2026 la Knesset ha approvato una legge che amplia il ricorso alla pena di morte, applicata in modo pressoché esclusivo a palestinesi giudicati da tribunali militari con garanzie processuali ridotte. Amnesty International e l'Alto Commissario ONU per i Diritti Umani, Volker Türk, ne hanno chiesto l'abrogazione.",
+      "Il Dott. Hussam Abu Safiya è il direttore dell'ospedale Kamal Adwan, nel nord di Gaza. È stato arrestato dalle forze israeliane il 27 dicembre 2024, durante l'irruzione nell'ospedale, insieme ad altro personale medico e pazienti. È detenuto da allora senza accuse formali né processo, ai sensi della legge israeliana sui \"combattenti nemici illegali\".\n\nIl 10 giugno 2026 la Corte Suprema israeliana ha respinto il suo appello, estendendo la sua detenzione — pochi mesi dopo che, il 30 marzo 2026, la Knesset aveva approvato una legge che amplia il ricorso alla pena di morte, applicata in modo pressoché esclusivo a palestinesi giudicati da tribunali militari, con garanzie processuali ridotte rispetto agli standard internazionali. Amnesty International e l'Alto Commissario ONU per i Diritti Umani, Volker Türk, hanno chiesto l'abrogazione della legge, definendola discriminatoria. È in questo quadro giuridico sempre più duro che si aggrava, nelle settimane successive, la vicenda del Dott. Abu Safiya.\n\nFino a inizio giugno 2026 era detenuto nel carcere di Ktzi'ot; è poi stato trasferito in isolamento nel carcere di Ganot e, il 24 giugno 2026, nella struttura sotterranea di interrogatorio Rakefet nel carcere di Nitzan. Secondo l'organizzazione Physicians for Human Rights Israel (PHRI) e il suo avvocato Nasser Odeh, dopo questi trasferimenti le sue condizioni sono gravemente peggiorate.\n\nDurante una visita legale del 2 luglio 2026, l'avvocato Odeh lo ha trovato incatenato mani e piedi, con gravi ferite fresche a testa, occhi, orecchie e collo — al punto da faticare a riconoscerlo. Il Dott. Abu Safiya aveva difficoltà a respirare e parlare, appariva estremamente debole ed è più volte sembrato sul punto di perdere conoscenza.\n\nHa riferito al suo avvocato di essere stato aggredito con un martello e bastoni da guardie carcerarie subito dopo l'udienza d'appello del 10 giugno 2026, e di aver subito pestaggi quotidiani dal 24 giugno, con più episodi di perdita di coscienza, senza cure mediche adeguate. Ha espresso il timore di essere stato portato in quella struttura per essere ucciso, temendo di non sopravvivere.\n\nL'avvocato Odeh ha presentato un ricorso urgente al Servizio Penitenziario israeliano; PHRI ha inviato appelli urgenti al Procuratore Generale, al Commissario del Servizio Penitenziario, al Difensore Pubblico e alle commissioni parlamentari competenti, chiedendo una visita indipendente e una valutazione medica urgente. La sua storia rende visibile, in un caso concreto e attuale, ciò che rischia di diventare sempre più comune per i detenuti palestinesi sotto un sistema giudiziario che si sta inasprendo.",
     timeline_title: "Cronologia",
     timeline: [
       { date: "27 dic 2024", text: "Arresto nell'ospedale Kamal Adwan" },
@@ -100,10 +100,9 @@ const TRANSLATIONS = {
     error_required: "Questo campo è obbligatorio",
     error_email: "Inserisci un indirizzo email valido",
     personal_send_btn: "Invia email personale",
-    input_gender_label: "Come vuoi firmarti?",
-    gender_neutral: "Le sarei grato/a (Neutro)",
-    gender_male: "Le sarei grato (Maschile)",
-    gender_female: "Le sarei grata (Femminile)",
+    input_gender_label: "Sei...",
+    gender_male: "Uomo",
+    gender_female: "Donna",
 
     // Sources
     sources_title: "Fonti",
@@ -134,7 +133,7 @@ const TRANSLATIONS = {
 
     hero_title: "Free Dr. Hussam Abu Safiya",
     hero_subtitle:
-      "Doctor and director of Kamal Adwan Hospital in Gaza. Detained without trial since December 27, 2024. His life is in immediate danger.",
+      "Doctor, director of the Kamal Adwan hospital in Gaza. Detained without trial since December 27, 2024, now in imminent danger of life — while a new Israeli law expands the use of the death penalty against Palestinians like him.",
     hero_cta: "Act now",
 
     who_title: "Who is Dr. Hussam Abu Safiya",
@@ -144,7 +143,7 @@ const TRANSLATIONS = {
 
     problem_title: "What is the problem",
     problem_body:
-      "On December 27, 2024, Israeli forces raided Kamal Adwan Hospital, arresting Dr. Abu Safiya along with other medical staff and patients. Since then he has been held without formal charges or trial, under the Israeli law on «unlawful enemy combatants». On June 10, 2026, the Israeli Supreme Court rejected his appeal and extended his detention. He had been held in Ktzi'ot prison, then transferred in isolation to Ganot prison, and on June 24, 2026, to the underground interrogation facility Rakefet at Nitzan prison.\n\nDuring a legal visit on July 2, 2026, his lawyer Nasser Odeh found him chained hand and foot, with serious fresh wounds on his head, eyes, ears and neck — to the point of barely recognizing him. Dr. Abu Safiya had difficulty breathing and speaking, appeared extremely weak, and repeatedly seemed on the verge of losing consciousness. He told his lawyer he was attacked with a hammer and sticks right after the June 10 hearing, and has been beaten daily since June 24 without adequate medical care.\n\nThis case is part of a broader context: on March 30, 2026, the Knesset passed a law expanding the use of the death penalty, applied almost exclusively to Palestinians tried by military courts with reduced procedural guarantees. Amnesty International and UN High Commissioner for Human Rights Volker Türk have called for its repeal.",
+      "Dr. Hussam Abu Safiya is the director of the Kamal Adwan hospital in northern Gaza. He was arrested by Israeli forces on December 27, 2024, during a raid on the hospital, along with other medical staff and patients. He has been detained ever since without formal charges or trial, under the Israeli law on \"unlawful enemy combatants\".\n\nOn June 10, 2026, the Israeli Supreme Court rejected his appeal, extending his detention — a few months after the Knesset passed a law on March 30, 2026, that expands the use of the death penalty, applied almost exclusively to Palestinians judged by military courts, with reduced procedural guarantees compared to international standards. Amnesty International and the UN High Commissioner for Human Rights, Volker Türk, have called for the law's repeal, calling it discriminatory. It is within this increasingly harsh legal framework that Dr. Abu Safiya's case worsens in the following weeks.\n\nUntil early June 2026, he was held in Ktzi'ot prison; he was then transferred to solitary confinement in Ganot prison and, on June 24, 2026, to the Rakefet underground interrogation facility in Nitzan prison. According to Physicians for Human Rights Israel (PHRI) and his lawyer Nasser Odeh, his condition has severely deteriorated following these transfers.\n\nDuring a legal visit on July 2, 2026, lawyer Odeh found him shackled hand and foot, with severe fresh wounds to his head, eyes, ears, and neck — to the point of struggling to recognize him. Dr. Abu Safiya had difficulty breathing and speaking, appeared extremely weak, and seemed on the verge of losing consciousness several times.\n\nHe reported to his lawyer that he was attacked with a hammer and clubs by prison guards immediately after the June 10, 2026 appeal hearing, and that he has endured daily beatings since June 24, with multiple episodes of losing consciousness, without adequate medical care. He expressed the fear of having been brought to that facility to be killed, fearing he would not survive.\n\nLawyer Odeh filed an urgent petition with the Israeli Prison Service; PHRI sent urgent appeals to the Attorney General, the Prison Service Commissioner, the Public Defender, and the relevant parliamentary committees, demanding an independent visit and an urgent medical assessment. His story makes visible, in a concrete and current case, what risks becoming increasingly common for Palestinian detainees under an increasingly harsh judicial system.",
     timeline_title: "Timeline",
     timeline: [
       { date: "Dec 27, 2024", text: "Arrested at Kamal Adwan Hospital" },
@@ -210,10 +209,9 @@ const TRANSLATIONS = {
     error_required: "This field is required",
     error_email: "Please enter a valid email address",
     personal_send_btn: "Send personal email",
-    input_gender_label: "How do you wish to sign?",
-    gender_neutral: "Le sarei grato/a (Neutral)",
-    gender_male: "Le sarei grato (Male)",
-    gender_female: "Le sarei grata (Female)",
+    input_gender_label: "You are...",
+    gender_male: "Man",
+    gender_female: "Woman",
 
     sources_title: "Sources",
 
@@ -242,7 +240,7 @@ const TRANSLATIONS = {
 
     hero_title: "أطلقوا سراح الدكتور حسام أبو صفية",
     hero_subtitle:
-      "طبيب ومدير مستشفى كمال عدوان في غزة. معتقل دون محاكمة منذ 27 ديسمبر 2024. حياته في خطر داهم.",
+      "طبيب، ومدير مستشفى كمال عدوان في غزة. معتقل بدون محاكمة منذ 27 ديسمبر 2024، وحياته الآن في خطر محدق — في حين يُوسّع قانون إسرائيلي جديد نطاق تطبيق عقوبة الإعدام ضد الفلسطينيين أمثاله.",
     hero_cta: "تصرّف الآن",
 
     who_title: "من هو الدكتور حسام أبو صفية",
@@ -252,7 +250,7 @@ const TRANSLATIONS = {
 
     problem_title: "ما هي المشكلة",
     problem_body:
-      "في 27 ديسمبر 2024، اقتحمت قوات الاحتلال الإسرائيلي مستشفى كمال عدوان واعتقلت الدكتور أبو صفية مع عدد من الكوادر الطبية والمرضى. ومنذ ذلك الحين هو رهن الاعتقال دون توجيه اتهامات رسمية أو محاكمة، استناداً إلى قانون «المقاتلين العدائيين غير الشرعيين» الإسرائيلي. في 10 يونيو 2026، رفضت المحكمة العليا الإسرائيلية استئنافه ومددت فترة احتجازه. ثم نُقل إلى سجن غانوت في عزل تام، وفي 24 يونيو 2026 إلى منشأة الاستجواب تحت الأرض «راكيفيت» في سجن نيتسان.\n\nخلال زيارة قانونية في 2 يوليو 2026، وجده محاميه ناصر عودة مكبّلاً يدين وقدمين، يحمل جروحاً طازجة بالغة في رأسه وعينيه وأذنيه ورقبته، حتى كاد لا يتعرف عليه. كان يعاني من صعوبة في التنفس والكلام، وبدا في غاية الوهن، وفقد وعيه مرات عدة. وأخبر محاميه بأنه تعرض للضرب بمطرقة وهراوات عقب جلسة 10 يونيو مباشرةً، وأنه يتعرض للضرب اليومي منذ 24 يونيو دون رعاية طبية كافية.\n\nتأتي هذه القضية في سياق أشمل: إذ أقرّ الكنيست الإسرائيلي في 30 مارس 2026 قانوناً يوسّع تطبيق عقوبة الإعدام بصورة تطال الفلسطينيين شبه حصرياً في المحاكم العسكرية ذات الضمانات الإجرائية المنقوصة. وطالبت منظمة العفو الدولية والمفرد السامي للأمم المتحدة لحقوق الإنسان فولكر تورك بإلغائه.",
+      "الدكتور حسام أبو صفية هو مدير مستشفى كمال عدوان في شمال غزة. اعتقلته القوات الإسرائيلية في 27 ديسمبر 2024، خلال اقتحامها للمستشفى، مع طواقم طبية أخرى ومرضى. وهو معتقل منذ ذلك الحين دون تهم رسمية أو محاكمة، بموجب القانون الإسرائيلي الخاص بـ \"المقاتلين الأعداء غير الشرعيين\".\n\nفي 10 يونيو 2026، رفضت المحكمة العليا الإسرائيلية استئنافه، ومددت فترة اعتقاله — بعد بضعة أشهر من إقرار الكنيست في 30 مارس 2026 لقانون يوسع من استخدام عقوبة الإعدام، والتي تُطبق بشكل شبه حصري على الفلسطينيين الذين يُحاكمون أمام المحاكم العسكرية، مع ضمانات إجرائية منخفضة مقارنة بالمعايير الدولية. وطالبت منظمة العفو الدولية والمفوض السامي للأمم المتحدة لحقوق الإنسان، فولكر تورك، بإلغاء القانون واصفين إياه بالتمييزي. في هذا الإطار القانوني المتشدد بشكل متزايد، تفاقمت قضية الدكتور أبو صفية في الأسابيع التالية.\n\nحتى أوائل يونيو 2026، كان محتجزاً في سجن كتسيعوت؛ ثم نُقل إلى العزل الانفرادي في سجن جانوت، وفي 24 يونيو 2026 إلى منشأة راكيفيت للتحقيق تحت الأرض في سجن نيتسان. ووفقاً لمنظمة أطباء من أجل حقوق الإنسان في إسرائيل (PHRI) ومحاميه ناصر عودة، تدهورت حالته الصحية بشكل خطير بعد عمليات النقل هذه.\n\nخلال زيارة قانونية في 2 يوليو 2026، وجده المحامي عودة مقيد اليدين والقدمين، ومصاباً بجروح حديثة وخطيرة في الرأس والعينين والأذنين والرقبة — لدرجة أنه بالكاد استطاع التعرف عليه. كان الدكتور أبو صفية يجد صعوبة في التنفس والتحدث، وبدا ضعيفاً للغاية، وبدا على وشك فقدان الوعي عدة مرات.\n\nوأبلغ محاميه أنه تعرض لاعتداء بمطرقة وهراوات من قبل حراس السجن فور انتهاء جلسة الاستئناف في 10 يونيو 2026، وأنه تعرض لضرب مبرح يومياً منذ 24 يونيو، مع فقدانه الوعي عدة مرات، دون تلقي رعاية طبية مناسبة. وأعرب عن خشيته من إحضاره إلى تلك المنشأة لقتله، مبدياً خوفه من عدم النجاة.\n\nقدم المحامي عودة التماساً عاجلاً إلى مصلحة السجون الإسرائيلية؛ وأرسلت منظمة أطباء من أجل حقوق الإنسان نداءات عاجلة إلى النائب العام ومفوض مصلحة السجون والمحامي العام واللجان البرلمانية ذات الصلة، مطالبة بزيارة مستقلة وتقييم طبي عاجل. إن قصته تجعل ما يهدد بأن يصبح شائعاً بشكل متزايد للمحتجزين الفلسطينيين في ظل نظام قضائي يزداد قسوة، ملموساً وحاضراً من خلال حالة فعلية.",
     timeline_title: "الجدول الزمني",
     timeline: [
       { date: "27 ديسمبر 2024", text: "الاعتقال في مستشفى كمال عدوان" },
@@ -321,10 +319,9 @@ const TRANSLATIONS = {
     error_required: "هذا الحقل مطلوب",
     error_email: "يرجى إدخال بريد إلكتروني صالح",
     personal_send_btn: "إرسال رسالة شخصية",
-    input_gender_label: "صيغة المُرسل:",
-    gender_neutral: "Le sarei grato/a (مُحايد)",
-    gender_male: "Le sarei grato (مُذكّر)",
-    gender_female: "Le sarei grata (مُؤنث)",
+    input_gender_label: "أنت...",
+    gender_male: "رجل",
+    gender_female: "امرأة",
 
     sources_title: "المصادر",
 
@@ -347,7 +344,7 @@ const EMAIL_SUBJECT =
 
 const EMAIL_BODY_DEFAULT = `Gentile Parlamentare,
 
-Le scrivo per chiederLe un intervento urgente contro la nuova legge israeliana sulla pena di morte e per la tutela delle cittadine e dei cittadini palestinesi detenuti da Israele. Mi oppongo alla pena di morte in ogni circostanza: è una punizione irreversibile, crudele e disumana, incompatibile con il diritto alla vita e con la dignità umana. Secondo Amnesty International e l'Alto Commissario ONU per i Diritti Umani, la recente normativa israeliana amplia il ricorso alla pena capitale in modo discriminatorio, con effetti quasi esclusivamente sui palestinesi e con gravi rischi per il diritto a un processo equo.
+Le scrivo per chiederLe un intervento urgente contro la nuova legge israeliana sulla pena di morte, approvata dalla Knesset il 30 marzo 2026, e per la tutela delle cittadine e dei cittadini palestinesi detenuti da Israele. Mi oppongo alla pena di morte in ogni circostanza: è una punizione irreversibile, crudele e disumana, incompatibile con il diritto alla vita e con la dignità umana. Secondo Amnesty International e l'Alto Commissario ONU per i Diritti Umani, la normativa amplia il ricorso alla pena capitale in modo discriminatorio, con effetti quasi esclusivamente sui palestinesi e con gravi rischi per il diritto a un processo equo. Il caso del dott. Hussam Abu Safiya, medico detenuto senza processo e oggi in pericolo di vita, rende evidente la posta in gioco di questa legge.
 
 Le chiedo quindi di sollecitare il Governo italiano affinché:
 
@@ -358,7 +355,7 @@ Le chiedo quindi di sollecitare il Governo italiano affinché:
 - chieda il rilascio immediato e incondizionato del dott. Hussam Abu Safiya e degli operatori sanitari palestinesi detenuti arbitrariamente;
 - promuova indagini indipendenti su torture, maltrattamenti, negligenza medica e detenzioni arbitrarie, e sostenga misure concrete perché Israele rispetti il diritto internazionale umanitario e dei diritti umani.
 
-Le sarei grato/a se mi comunicasse quali iniziative intende intraprendere.
+Le sarei {GRATO_GRATA} se mi comunicasse quali iniziative intende intraprendere.
 
 Grazie per l'attenzione,
 distinti saluti,
