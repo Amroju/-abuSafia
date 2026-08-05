@@ -812,7 +812,9 @@ a:hover { color: var(--color-accent-dark); }
 
 .input-note {
   font-size: var(--text-xs);
-  color: rgba(237,232,220,.6);
+  color: var(--cream);
+  opacity: 0.9;
+  font-style: italic;
   margin-bottom: 0.2rem;
   font-family: var(--font-sans);
 }
