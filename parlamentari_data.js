@@ -1,0 +1,2996 @@
+﻿window.PARLAMENTARI_DATA = {
+  "ABRUZZO": [
+    {
+      "nome": "Bagnai Alberto",
+      "email": "bagnai_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Dâ€™Alfonso Luciano",
+      "email": "dalfonso_l@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Pagano Nazario",
+      "email": "pagano_n@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Roscani Fabio",
+      "email": "roscari_f@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Silvestri Rachele",
+      "email": "silvestri_r@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Sottanelli Giulio Cesare",
+      "email": "sottanelli_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Testa Guerino",
+      "email": "testa_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Torto Daniela",
+      "email": "torto_d@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Di Girolamo Gabriella",
+      "email": "gabriella.digirolamo@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Fina Michele",
+      "email": "michele.fina@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Liris Guido Quintino",
+      "email": "guidoquintino.liris@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Sigismondi Etelwardo",
+      "email": "etelwardo.sigismondi@senato.it",
+      "camera": "Senato"
+    }
+  ],
+  "BASILICATA": [
+    {
+      "nome": "Amendola Vincenzo",
+      "email": "amendola_v@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Caiata Salvatore",
+      "email": "caiata_s@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Lomuti Arnaldo",
+      "email": "lomuti_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Mattia Aldo",
+      "email": "mattia_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Alberti Casellati Maria Elisabetta",
+      "email": "maria.alberticasellati@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Rosa Gianni",
+      "email": "gianni.rosa@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Turco Mario",
+      "email": "mario.turco@senato.it",
+      "camera": "Senato"
+    }
+  ],
+  "CALABRIA": [
+    {
+      "nome": "Antoniozzi Alfredo",
+      "email": "antoniozzo_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Arruzzolo Giovanni",
+      "email": "arruzzolo_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Baldino Vittoria",
+      "email": "baldino_v@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Cannizzaro Francesco",
+      "email": "cannizzaro_f@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Ferro Wanda",
+      "email": "ferro_w@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Furgiuele Domenico",
+      "email": "furgiuele_d@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Loizzo Simona",
+      "email": "loizzo_s@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Mangialavori Giuseppe Tommaso Vincenzo",
+      "email": "mangialavori_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Orrico Anna Laura",
+      "email": "orrico_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Roccella Eugenia",
+      "email": "roccella_e@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "ScutellÃ  Elisa",
+      "email": "scutella_e@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Stumpo Nicola",
+      "email": "stumpo_n@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Tucci Riccardo",
+      "email": "tucci_r@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Irto Nicola",
+      "email": "nicola.irto@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Minasi Tilde",
+      "email": "clotilde.minasi@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Occhiuto Mario",
+      "email": "mario.occhiuto@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Orsomarso Fausto",
+      "email": "fausto.orsomarso@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Rapani Ernesto",
+      "email": "ernesto.rapani@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Scarpinato Roberto Maria Ferdinando",
+      "email": "roberto.scarpinato@senato.it",
+      "camera": "Senato"
+    }
+  ],
+  "CAMPANIA": [
+    {
+      "nome": "Amato Gaetano",
+      "email": "amato_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Auriemma Carmela",
+      "email": "auriemma_c@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Borrelli Francesco Emilio",
+      "email": "borrelli_f@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Bruno Raffaele",
+      "email": "bruno_r@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Caramiello Alessandro",
+      "email": "caramiello_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Carotenuto Dario",
+      "email": "carotenuto_d@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Caso Antonio",
+      "email": "casio_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Costa Sergio",
+      "email": "costa_s@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Di Lauro Carmen",
+      "email": "dilauro_c@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Patriarca Annarita",
+      "email": "patriarca_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Penza Pasqualino",
+      "email": "penza_p@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Ricciardi Marianna",
+      "email": "ricciardi_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Rosato Ettore",
+      "email": "rosato_e@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Sarracino Marco",
+      "email": "sarracino_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Schiano di Visconti Michele",
+      "email": "schianodivisconti_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Schifone Marta",
+      "email": "schifone_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Speranza Roberto",
+      "email": "speranza_r@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Sportiello Gilda",
+      "email": "sportiello_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Alifano Enrica",
+      "email": "alifano_e@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Bicchielli Pino",
+      "email": "bicchielli_p@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Cangiano Gerolamo",
+      "email": "cangiano_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Cerreto Marco",
+      "email": "cerreto_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Cirielli Edmondo",
+      "email": "cirielli_e@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Dâ€™Alessio Antonio",
+      "email": "dalessio_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "De Luca Piero",
+      "email": "deluca_p@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Ferrante Tullio",
+      "email": "ferrante_t@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Giorgianni Carmen Letizia",
+      "email": "giorgianni_c@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Graziano Stefano",
+      "email": "graziano_s@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Gubitosa Michele",
+      "email": "gubitosa_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Mari Francesco",
+      "email": "mari_f@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Pierro Attilio",
+      "email": "pierro_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Rotondi Gianfranco",
+      "email": "rotondi_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Rubano Francesco Maria",
+      "email": "rubano_f@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Santillo Agostino",
+      "email": "santillo_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Vietri Imma",
+      "email": "vietri_i@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Zinzi Gianpiero",
+      "email": "zinzi_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Aloisio Vincenza",
+      "email": "vincenza.aloisio@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Bilotti Anna",
+      "email": "anna.bilotti@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Camusso Susanna",
+      "email": "susannalina.camusso@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Cantalamessa Gianluca",
+      "email": "gianluca.cantalamessa@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Castellone Maria Domenica",
+      "email": "mariadomenica.castellone@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Castiello Francesco",
+      "email": "francesco.castiello@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Cosenza Giulia",
+      "email": "giulia.cosenza@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "De Rosa Raffaele",
+      "email": "raffaele.derosa@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Franceschini Dario",
+      "email": "dario.franceschini@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Iannone Antonio",
+      "email": "antonio.iannone@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Lopreiato Ada",
+      "email": "ada.lopreiato@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Matera Domenico",
+      "email": "domenico.matera@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Mazzella Orfeo",
+      "email": "orfeo.mazzella@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Nave Luigi",
+      "email": "luigi.nave@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Petrenga Giovanna",
+      "email": "giovanna.petrenga@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Rastelli Sergio",
+      "email": "sergio.rastrelli@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Renzi Matteo",
+      "email": "matteo.renzi@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Silvestro Francesco",
+      "email": "francesco.silvestro@senato.it",
+      "camera": "Senato"
+    }
+  ],
+  "EMILIA ROMAGNA": [
+    {
+      "nome": "Ascari Stefania",
+      "email": "ascari_s@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Bakkali Ouidad",
+      "email": "bakkali_o@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Bergamini Davide",
+      "email": "bergamini_d@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Bignami Galeazzo",
+      "email": "bignami_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Bonelli Angelo",
+      "email": "bonelli_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Buonguerrieri Alice",
+      "email": "buonguerrieri_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Cafiero De Raho Federico",
+      "email": "cafieroderaho_f@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Cavandoli Laura",
+      "email": "cavandoli_l@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Colombo Beatriz",
+      "email": "colombo_b@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "De Maria Andrea",
+      "email": "demaria_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "De Micheli Paola",
+      "email": "demicheli_p@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Dondi Daniela",
+      "email": "dondi_d@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Foti Tommaso",
+      "email": "foti_t@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Gnassi Andrea",
+      "email": "gnassi_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Gruppioni Naike",
+      "email": "gruppioni_n@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Lucaselli Ylenia",
+      "email": "lucaselli_y@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Malaguti Mauro",
+      "email": "malaguti_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Malavasi Ilenia",
+      "email": "malavasi_i@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Merola Virginio",
+      "email": "merola_v@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Morrone Jacopo",
+      "email": "morrone_j@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Richetti Matteo",
+      "email": "richetti_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Rossi Andrea",
+      "email": "rossi_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Russo Gaetana",
+      "email": "russo_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Saccani Jotti Gloria",
+      "email": "saccanijotti_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Schlein Elly",
+      "email": "schlein_e@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Soumahoro Aboubakar",
+      "email": "soumahoro_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Tassinari Rosaria",
+      "email": "tassinari_r@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Vaccari Stefano",
+      "email": "vaccari_s@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Vinci Gianluca",
+      "email": "vinci_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Balboni Alberto",
+      "email": "alberto.balboni@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Barcaiuolo Michele",
+      "email": "michele.barcaiuolo@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Borgonzoni Lucia",
+      "email": "lucia.borgonzoni@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Casini Pier Ferdinando",
+      "email": "pierferdinando.casini@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Croatti Marco",
+      "email": "marco.croatti@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Delrio Graziano",
+      "email": "graziano.delrio@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Farolfi Marta",
+      "email": "marta.farolfi@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Fregolent Silvia",
+      "email": "silvia.fregolent@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Lisei Marco",
+      "email": "marco.lisei@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Manca Daniele",
+      "email": "daniele.manca@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Murelli Elena",
+      "email": "elena.murelli@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Rando Vincenza",
+      "email": "vincenza.rando@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Spinelli Domenica",
+      "email": "domenica.spinelli@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Zampa Sandra",
+      "email": "sandra.zampa@senato.it",
+      "camera": "Senato"
+    }
+  ],
+  "FRIULI VENEZIA GIULIA": [
+    {
+      "nome": "De Monte Isabella",
+      "email": "demonte_i@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Gava Vannia",
+      "email": "gava_v@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Loperfido Emanuele",
+      "email": "loperfido_e@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Matteoni Nicole",
+      "email": "matteoni_n@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Panizzut Massimiliano",
+      "email": "panizzut_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Pizzimenti Graziano",
+      "email": "pizzimenti_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Rizzetto Walter",
+      "email": "rizzetto_w@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Serracchiani Debora",
+      "email": "serracchiani_d@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Ciriani Luca",
+      "email": "luca.ciriani@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Dreosto Marco",
+      "email": "marco.dreosto@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Rojc Tatjana",
+      "email": "tatjana.rojc@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Tubetti Francesca",
+      "email": "francesca.tubetti@senato.it",
+      "camera": "Senato"
+    }
+  ],
+  "LAZIO": [
+    {
+      "nome": "Angelucci Antonio",
+      "email": "angelucci_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Barelli Paolo",
+      "email": "barelli_p@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Battilocchio Alessandro",
+      "email": "battilocchio_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Bellucci Maria Teresa",
+      "email": "bellucci_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Boschi Maria Elena",
+      "email": "boschi_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Casu Andrea",
+      "email": "casu_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Ciani Paolo",
+      "email": "ciani_p@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Ciocchetti Luciano",
+      "email": "ciocchetti_l@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Colucci Alfonso",
+      "email": "colucci_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Di Biase Michela",
+      "email": "dibiase_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Freni Federico",
+      "email": "freni_f@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Giachetti Roberto",
+      "email": "giachetti_r@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Mancini Claudio",
+      "email": "mancini_c@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Matone Simonetta",
+      "email": "matone_s@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Mollicone Federico",
+      "email": "mollicone_f@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Morassut Roberto",
+      "email": "morassut_r@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Palombi Alessandro",
+      "email": "palombi_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Rampelli Fabio",
+      "email": "rampelli_f@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Rossi Angelo",
+      "email": "rossi_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Silvestri Francesco",
+      "email": "silvestri_f@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Tajani Antonio",
+      "email": "tajani_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Volpi Andrea",
+      "email": "volpi_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Zaratti Filiberto",
+      "email": "zaratti_f@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Zingaretti Nicola",
+      "email": "zingaretti_n@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Colosimo Chiara",
+      "email": "colosimo_c@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Fontana Ilaria",
+      "email": "fontana_i@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Lollobrigida Francesco",
+      "email": "lollobrigida_f@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Madia Maria Anna",
+      "email": "madia_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Marrocco Patrizia",
+      "email": "marrocco_p@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Miele Giovanna",
+      "email": "miele_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Milani Massimo",
+      "email": "milani_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Orfini Matteo",
+      "email": "orfini_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Ottaviani Nicola",
+      "email": "ottaviani_n@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Pulciani Paolo",
+      "email": "pulciani_p@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Rotelli Mauro",
+      "email": "rotelli_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Ruspandini Massimo",
+      "email": "ruspandini_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Trancassini Paolo",
+      "email": "trancassini_p@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Bongiorno Giulia",
+      "email": "giulia.bongiorno@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Calandrini Nicola",
+      "email": "nicola.calandrini@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "De Cristofaro Peppe",
+      "email": "giuseppe.decristofaro@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Dâ€™Elia Cecilia",
+      "email": "cecilia.delia@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "De Priamo Andrea",
+      "email": "andrea.depriamo@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Durigon Claudio",
+      "email": "claudio.durigon@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Fazzone Claudio",
+      "email": "claudio.fazzone@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Gasparri Maurizio",
+      "email": "gasparri@tin.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Maiorino Alessandra",
+      "email": "alessandra.maiorino@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Mennuni Lavinia",
+      "email": "lavinia.mennuni@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Mieli Ester",
+      "email": "ester.mieli@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Paganella Andrea",
+      "email": "andrea.paganella@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Paita Raffaella",
+      "email": "raffaella.paita@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Patuanelli Stefano",
+      "email": "stefano.patuanelli@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Pellegrino Cinzia",
+      "email": "cinzia.pellegrino@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Scurria Marco",
+      "email": "marco.scurria@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Sensi Filippo",
+      "email": "filippo.sensi@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Silvestroni Marco",
+      "email": "marco.silvestroni@senato.it",
+      "camera": "Senato"
+    }
+  ],
+  "LIGURIA": [
+    {
+      "nome": "Bagnasco Roberto",
+      "email": "bagnasco_r@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Bruzzone Francesco",
+      "email": "bruzzone_f@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Cavo Ilaria",
+      "email": "cavo_i@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Frijia Maria Grazia",
+      "email": "frijia_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Ghio Valentina",
+      "email": "ghio_v@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Orlando Andrea",
+      "email": "orlando_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Pastorino Luca",
+      "email": "pastorino_l@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Rixi Edoardo",
+      "email": "rixi_e@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Rosso Matteo",
+      "email": "rosso_matteo@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Traversi Roberto",
+      "email": "traversi_r@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Basso Lorenzo",
+      "email": "lorenzo.basso@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Berrino Gianni",
+      "email": "giovanni.berrino@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Menia Roberto",
+      "email": "roberto.menia@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Pirondini Luca",
+      "email": "luca.pirondini@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Pucciarelli Stefania",
+      "email": "stefania.pucciarelli@senato.it",
+      "camera": "Senato"
+    }
+  ],
+  "LOMBARDIA": [
+    {
+      "nome": "Cecchetti Fabrizio",
+      "email": "cecchetti_f@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Conte Giuseppe",
+      "email": "conte_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Costa Enrico",
+      "email": "costa_e@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Crippa Andrea",
+      "email": "crippa_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Cuperlo Gianni",
+      "email": "cuperlo_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "De Corato Riccardo",
+      "email": "decorato_r@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Della Vedova Benedetto",
+      "email": "dellavedova_b@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Di Maggio Grazia",
+      "email": "dimaggio_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Evi Eleonora",
+      "email": "evi_e@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Frassinetti Paola",
+      "email": "frassinetti_p@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Iezzi Igor",
+      "email": "iezzi_i@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Malagola Lorenzo",
+      "email": "malagola_l@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Mantovani Lucrezia Maria Benedetta",
+      "email": "mantovani_l@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Maullu Stefano Giovanni",
+      "email": "maullu_s@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Mauri Matteo",
+      "email": "mauri_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Osnato Marco",
+      "email": "osnato_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Pastorella Giulia",
+      "email": "pastorella_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Pietrella Fabio",
+      "email": "pietrella_f@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Quartapelle Procopio Lia",
+      "email": "quartapelle_l@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Ravetto Laura",
+      "email": "ravetto_l@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Roggiani Silvia",
+      "email": "roggiani_s@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Rossello Cristina",
+      "email": "rossello_c@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Sala Fabrizio",
+      "email": "sala_f@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Tabacci Bruno",
+      "email": "tabacci_b@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Tremonti Giulio",
+      "email": "tremonti_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Benigni Stefano",
+      "email": "benigni_s@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Bossi Umberto",
+      "email": "bossi_u@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Braga Chiara",
+      "email": "braga_c@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Candiani Stefano",
+      "email": "candiani_s@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Dori Devis",
+      "email": "dori_d@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Gadda Maria Chiara",
+      "email": "gadda_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Giorgetti Giancarlo",
+      "email": "giorgetti_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Kelany Sara",
+      "email": "kelany_s@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Lupi Maurizio",
+      "email": "lupi_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Maerna Novo Umberto",
+      "email": "maerna_n@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Mascaretti Andrea",
+      "email": "mascaretti_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Molteni Nicola",
+      "email": "molteni_n@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Pellicini Andrea",
+      "email": "pellicini_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Todde Alessandra",
+      "email": "todde_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Zoffili Eugenio",
+      "email": "zoffili_e@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Almici Cristina",
+      "email": "almici_c@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Benzoni Fabrizio",
+      "email": "benzoni_f@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Bordonali Simona",
+      "email": "bordonali_s@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Calovini Giangiacomo",
+      "email": "calovini_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Casasco Maurizio",
+      "email": "casasco_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Centemero Giulio",
+      "email": "centemero_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Formentini Paolo",
+      "email": "formentini_p@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Frassini Rebecca",
+      "email": "frassini_r@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Girelli Gian Antonio",
+      "email": "girelli_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Peluffo Vinicio Giuseppe Guido",
+      "email": "peluffo_v@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Sbardella Luca",
+      "email": "sbardella_l@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Sorte Alessandro",
+      "email": "sorte_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Squeri Luca",
+      "email": "squeri_l@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Tremaglia Andrea",
+      "email": "tremaglia_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Alfieri Alessandro",
+      "email": "alessandro.alfieri@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Ancorotti Renato",
+      "email": "renato.ancorotti@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Barachini Alberto",
+      "email": "alberto.barachini@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Bazoli Alfredo",
+      "email": "alfredo.bazoli@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Borghesi Stefano",
+      "email": "stefano.borghesi@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Butti Alessio",
+      "email": "alessio.butti@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Calderoli Roberto",
+      "email": "roberto.calderoli@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "CantÃ¹ Maria Cristina",
+      "email": "mariacristina.cantu@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Centinaio Gian Marco",
+      "email": "gianmarco.centinaio@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Galliani Adriano",
+      "email": "adriano.galliani@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Garnero SantanchÃ¨ Daniela",
+      "email": "daniela.santanche@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "La Russa Ignazio",
+      "email": "ignazio.larussa@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Lombardo Marco",
+      "email": "marco.lombardo@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Maffoni Gianpietro",
+      "email": "gianpietro.maffoni@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Magni Tino",
+      "email": "celestino.magni@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Malpezzi Simona Flavia",
+      "email": "simona.malpezzi@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Mancini Paola",
+      "email": "paola.mancini@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Marton Bruno",
+      "email": "bruno.marton@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Mirabelli Franco",
+      "email": "franco.mirabelli@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Misiani Antonio",
+      "email": "antonio.misiani@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Morelli Alessandro",
+      "email": "alessandro.morelli@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Paroli Adriano",
+      "email": "adriano.paroli@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Pirovano Daisy",
+      "email": "daisy.pirovano@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Rauti Isabella",
+      "email": "isabella.rauti@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Romeo Massimiliano",
+      "email": "massimiliano.romeo@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Ronzulli Licia",
+      "email": "licia.ronzulli@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Sironi Elena",
+      "email": "elena.sironi@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Sisler Sandro",
+      "email": "sandro.sisler@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Tajani Cristina",
+      "email": "cristina.tajani@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Terzi di Santâ€™Agata Giuliomaria",
+      "email": "giulio.terzi@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Versace Giusy",
+      "email": "giusy.versace@senato.it",
+      "camera": "Senato"
+    }
+  ],
+  "MARCHE": [
+    {
+      "nome": "Albano Lucia",
+      "email": "albano_l@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Baldelli Antonio",
+      "email": "baldelli_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Battistoni Francesco",
+      "email": "battistoni_f@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Benvenuti Gostoli Stefano Maria",
+      "email": "benvenutigostoli_s@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Carloni Mirco",
+      "email": "carloni_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Curti Augusto",
+      "email": "curti_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Fede Giorgio",
+      "email": "fede_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Latini Giorgia",
+      "email": "latini_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Manzi Irene",
+      "email": "manzi_i@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Marchetti Riccardo Augusto",
+      "email": "marchetti_r@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Castelli Guido",
+      "email": "guido.castelli@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Cataldi Roberto",
+      "email": "roberto.cataldi@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "De Poli Antonio",
+      "email": "antonio.depoli@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Leonardi Elena",
+      "email": "elena.leonardi@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Losacco Alberto",
+      "email": "alberto.losacco@senato.it",
+      "camera": "Senato"
+    }
+  ],
+  "MOLISE": [
+    {
+      "nome": "Cesa Lorenzo",
+      "email": "cesa_l@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Lancellotta Elisabetta Christiana",
+      "email": "lancellotta_e@camera.it",
+      "camera": "Camera"
+    }
+  ],
+  "PIEMONTE": [
+    {
+      "nome": "Benvenuto Alessandro Manuel",
+      "email": "benvenuto_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Berruto Mauro",
+      "email": "berruto_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Giglio Vigna Alessandro",
+      "email": "gigliovigna_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Grimaldi Marco",
+      "email": "grimaldi_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Guerra Maria Cecilia",
+      "email": "guerra_maria@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Iaria Antonino",
+      "email": "iaria_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Laus Mauro Antonio Donato",
+      "email": "laus_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Maccanti Elena",
+      "email": "maccanti_e@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Magi Riccardo",
+      "email": "magi_r@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Montaruli Augusta",
+      "email": "montaruli_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Pella Roberto",
+      "email": "pella_r@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Perissa Marco",
+      "email": "perissa_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Pichetto Fratin Gilberto",
+      "email": "pichettofratin_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Ruffino Daniela",
+      "email": "ruffino_d@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Zurzolo Immacolata",
+      "email": "zurzolo_i@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Amich Enzo",
+      "email": "amich_e@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Appendino Chiara",
+      "email": "appendino_c@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Ciaburro Monica",
+      "email": "ciaburro_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Comba Fabrizio",
+      "email": "comba_f@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Coppo Marcello",
+      "email": "coppo_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Delmastro Delle Vedove Andrea",
+      "email": "delmastrodellevedove_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Fornaro Federico",
+      "email": "fornaro_f@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Giaccone Andrea",
+      "email": "giaccone_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Gribaudo Chiara",
+      "email": "gribaudo_c@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Gusmeroli Alberto Luigi",
+      "email": "gusmeroli_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Marattini Luigi",
+      "email": "marattini_l@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Molinari Riccardo",
+      "email": "molinari_r@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Pozzolo Emanuele",
+      "email": "pozzolo_e@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Siracusano Matilde",
+      "email": "siracusano_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Ambrogio Paola",
+      "email": "paola.ambrogio@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Bergesio Giorgio Maria",
+      "email": "giorgio.bergesio@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Borghi Enrico",
+      "email": "enrico.borghi@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Caravaglia Massimo",
+      "email": "massimo.garavaglia@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Giorgis Andrea",
+      "email": "andrea.giorgis@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Malan Lucio",
+      "email": "lucio.malan@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Nastri Gaetano",
+      "email": "gaetano.nastri@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Pirro Elisa",
+      "email": "elisa.pirro@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Rosso Roberto",
+      "email": "roberto.rosso@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Rossomando Anna",
+      "email": "anna.rossomando@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Salvitti Giorgio",
+      "email": "giorgio.salvitti@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Scalfarotto Ivan",
+      "email": "ivan.scalfarotto@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Verducci Francesco",
+      "email": "francesco.verducci@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Zangrillo Paolo",
+      "email": "paolo.zangrillo@senato.it",
+      "camera": "Senato"
+    }
+  ],
+  "PUGLIA": [
+    {
+      "nome": "Bellomo Davide",
+      "email": "bellomo_d@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Carfagna Maria Rosaria",
+      "email": "carfagna_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Caroppo Andrea",
+      "email": "caroppo_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Colucci Alessandro",
+      "email": "colucci_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Congedo Saverio",
+      "email": "congedo_s@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Dalla Chiesa Rita",
+      "email": "dallachiesa_r@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Dâ€™Attis Mauro",
+      "email": "dattis_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Dellâ€™Olio Gianmauro",
+      "email": "dellolio_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "De Palma Vito",
+      "email": "depalma_v@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Di Mattina Salvatore Marcello",
+      "email": "dimattina_s@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Donno Leonardo",
+      "email": "donno_l@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Fitto Raffaele",
+      "email": "fitto_r@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Gatta Giandiego",
+      "email": "gatta_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Gemmato Marcello",
+      "email": "gemmato_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Giuliano Carla",
+      "email": "giuliano_c@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Iaia Dario",
+      "email": "iaia_d@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Lâ€™Abbate Patty",
+      "email": "labbate_p@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Lacarra Marco",
+      "email": "lacarra_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "La Salandra Giandonato",
+      "email": "lasalandra_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Lovecchio Giorgio",
+      "email": "lovecchio_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Maiorano Giovanni",
+      "email": "maiorano_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Matera Mariangela",
+      "email": "matera_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Pagano Ubaldo",
+      "email": "pagano_u@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Pellegrini Marco",
+      "email": "pellegrini_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Piccolotti Elisabetta",
+      "email": "piccolotti_e@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Sasso Rossano",
+      "email": "sasso_r@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Stefanazzi Claudio Michele",
+      "email": "stefanazzi_c@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Boccia Francesco",
+      "email": "francesco.boccia@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Damiani Dario",
+      "email": "dario.damiani@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Fallucchi Anna Maria",
+      "email": "annamaria.fallucchi@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Fazzolari Giovanbattista",
+      "email": "giovanbattista.fazzolari@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Marti Roberto",
+      "email": "roberto.marti@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Melchiorre Filippo",
+      "email": "filippo.melchiorre@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Naturale Gisella",
+      "email": "gisella.naturale@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Nocco Vita Maria",
+      "email": "vitamaria.nocco@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Salvini Matteo",
+      "email": "matteo.salvini@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Sisto Francesco Paolo",
+      "email": "francescopaolo.sisto@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Trevisi Antonio Salvatore",
+      "email": "antoniosalvatore.trevisi@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Valente Valeria",
+      "email": "valeria.valente@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Zullo Ignazio",
+      "email": "zulloignazio@gmail.com",
+      "camera": "Senato"
+    }
+  ],
+  "SARDEGNA": [
+    {
+      "nome": "Cappellacci Ugo",
+      "email": "cappellacci_u@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Cherchi Susanna",
+      "email": "cherchi_s@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Deidda Salvatore",
+      "email": "deidda_s@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Fenu Emiliano",
+      "email": "fenu_e@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Ghirra Francesca",
+      "email": "ghirra_f@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Giagoni Dario",
+      "email": "giaconi_d@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Lai Silvio",
+      "email": "lai_s@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Lampis Gianni",
+      "email": "lampis_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Mura Francesco",
+      "email": "mura_f@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Pittalis Pietro",
+      "email": "pittalis_p@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Polo Barbara",
+      "email": "polo_b@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Sabrina Licheri",
+      "email": "sabrina.licheri@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Marco Meloni",
+      "email": "marco.meloni@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Pera Marcello",
+      "email": "marcello.pera@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Satta Giovanni",
+      "email": "giovanni.satta@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Zedda Antonella",
+      "email": "antonella.zedda@senato.it",
+      "camera": "Senato"
+    }
+  ],
+  "SICILIA": [
+    {
+      "nome": "Aiello Davide",
+      "email": "aiello_d@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Brambilla Michela Vittoria",
+      "email": "brambilla_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Caramanna Gianluca",
+      "email": "caramanna_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Carmina Ida",
+      "email": "carmina_i@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Dâ€™Orso Valentina",
+      "email": "dorso_v@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Faraone Davide",
+      "email": "faraone_d@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Fascina Marta Antonia",
+      "email": "fascina_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Giordano Antonio",
+      "email": "giordano_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Iacono Giovanna",
+      "email": "iacono_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Morfino Daniela",
+      "email": "morfino_d@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "MulÃ¨ Giorgio",
+      "email": "mule_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Pisano Calogero",
+      "email": "pisano_c@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Provenzano Giuseppe",
+      "email": "provenzano_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Romano Francesco Saverio",
+      "email": "romano_f@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Varchi Maria Carolina",
+      "email": "varchi_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Barbagallo Anthony Emanuele",
+      "email": "barbagallo_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Calderone Tommaso Antonino",
+      "email": "calderone_t@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Cannata Giovanni Luca",
+      "email": "cannata_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Cantone Luciano",
+      "email": "cantone_l@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "CarrÃ  Anastasio",
+      "email": "carra_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Castiglione Giuseppe",
+      "email": "castiglione_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Ciancitto Francesco Maria Salvatore",
+      "email": "ciancitto_f@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Gallo Francesco",
+      "email": "gallo_f@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Leo Maurizio",
+      "email": "leo_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Longi Eliana",
+      "email": "longi_e@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Marino Maria Stefania",
+      "email": "marino_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Messina Manlio",
+      "email": "messina_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Minardo Antonino",
+      "email": "minardo_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Raffa Angela",
+      "email": "raffa_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Russo Paolo Emilio",
+      "email": "russo_p@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Scerra Filippo",
+      "email": "scerra_f@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Sudano Valeria",
+      "email": "sudano_v@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Bevilacqua Dolores",
+      "email": "dolores.bevilacqua@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Bucalo Carmela",
+      "email": "carmela.bucalo@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Calenda Carlo",
+      "email": "carlo.calenda@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Craxi Stefania",
+      "email": "stefania.craxi@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Damante Concetta",
+      "email": "concetta.damante@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Floridia Barbara",
+      "email": "barbara.floridia@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Furlan Annamaria",
+      "email": "annamaria.furlan@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "GermanÃ  Antonino",
+      "email": "antoninosalvatore.germana@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Lorefice Pietro",
+      "email": "segreteria.senlorefice@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Musolino Dafne",
+      "email": "dafne.musolino@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Musumeci Nello",
+      "email": "nello.musumeci@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Nicita Antonio",
+      "email": "antonio.nicita@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Pogliese Salvo",
+      "email": "salvatoredomenico.pogliese@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Russo Raoul",
+      "email": "raoul.russo@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Sallemi Salvatore",
+      "email": "salvatore.sallemi@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Ternullo Daniela",
+      "email": "daniela.ternullo@senato.it",
+      "camera": "Senato"
+    }
+  ],
+  "TOSCANA": [
+    {
+      "nome": "Amorese Alessandro",
+      "email": "amorese_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Barabotti Andrea",
+      "email": "barabotti_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Bergamini Deborah",
+      "email": "bergamini_d@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Boldrini Laura",
+      "email": "boldrini_l@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "BonafÃ¨ Simona",
+      "email": "bonafe.s@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Bonifazi Francesco",
+      "email": "bonifazi_f@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Donzelli Giovanni",
+      "email": "donzelli_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Fossi Emiliano",
+      "email": "fossi_e@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Fratoianni Nicola",
+      "email": "fratoianni_n@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Furfaro Marco",
+      "email": "furfaro_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Gianassi Federico",
+      "email": "gianassi_f@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "La Porta Chiara",
+      "email": "laporta_c@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Mazzetti Erica",
+      "email": "mazzetti_e@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Michelotti Francesco",
+      "email": "michelotti_f@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Montemagni Elisa",
+      "email": "montemagni_e@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Nisini Tiziana",
+      "email": "nisini_t@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Quartini Andrea",
+      "email": "quartini_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Ricciardi Riccardo",
+      "email": "ricciardi_r@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Rossi Fabrizio",
+      "email": "rossi_f@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Scotto Arturo",
+      "email": "scotto_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Simiani Marco",
+      "email": "simiani_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Tenerini Chiara",
+      "email": "tenerini_c@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Ziello Edoardo",
+      "email": "ziello_e@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Zucconi Riccardo",
+      "email": "zucconi_r@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Borghi Claudio",
+      "email": "claudio.borghi@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Campione Susanna Donatella",
+      "email": "susannadonatella.campione@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Cucchi Ilaria",
+      "email": "ilaria.cucchi@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Franceschelli Silvio",
+      "email": "silvio.franceschelli@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Gelmini Mariastella",
+      "email": "mariastella.gelmini@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "La Pietra Patrizio Giacomo",
+      "email": "patrizio.lapietra@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Licheri Ettore Antonio",
+      "email": "ettore.licheri@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Marcheschi Paolo",
+      "email": "paolo.marcheschi@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Parrini Dario",
+      "email": "parrini.dario@gmail.com",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Petrucci Simona",
+      "email": "simona.petrucci@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Potenti Manfredi",
+      "email": "manfredi.potenti@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Zambito Ylenia",
+      "email": "ylenia.zambito@senato.it",
+      "camera": "Senato"
+    }
+  ],
+  "TRENTINO-ALTO ADIGE": [
+    {
+      "nome": "Ambrosi Alessia",
+      "email": "ambrosi_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Cattoi Vanessa",
+      "email": "cattoi_v@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "De Bertoli Andrea",
+      "email": "debertoli_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Ferrari Sara",
+      "email": "ferrari_s@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Gebhard Renate",
+      "email": "gebhard_r@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Schullian Manfred",
+      "email": "schullian_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Steger Dieter",
+      "email": "steger_d@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Biancofiore Michaela",
+      "email": "michaela.biancofiore@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Durnwalder Meinhard",
+      "email": "meinhard.durnwalder@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Patton Pietro",
+      "email": "pietro.patton@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Spagnolli Luigi",
+      "email": "luigi.spagnolli@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Testor Elena",
+      "email": "elena.testor@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Unterberger Julia",
+      "email": "julia.unterberger@senato.it",
+      "camera": "Senato"
+    }
+  ],
+  "UMBRIA": [
+    {
+      "nome": "Ascani Anna",
+      "email": "ascani_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Caparvi Virginio",
+      "email": "caparvi_v@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Nevi Raffaele",
+      "email": "nevi_r@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Pavanelli Emma",
+      "email": "pavanelli_e@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Polidori Catia",
+      "email": "polidori_c@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Prisco Emanuele",
+      "email": "prisco_e@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Guidi Antonio",
+      "email": "antonio.guidi@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Verini Walter",
+      "email": "walter.verini@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Zaffini Francesco",
+      "email": "francesco.zaffini@senato.it",
+      "camera": "Senato"
+    }
+  ],
+  "VALLE D'AOSTA": [
+    {
+      "nome": "Manes Franco",
+      "email": "manes_f@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Spelgatti Nicoletta",
+      "email": "nicoletta.spelgatti@senato.it",
+      "camera": "Senato"
+    }
+  ],
+  "VENETO": [
+    {
+      "nome": "Andreuzza Giorgia",
+      "email": "andreuzza_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Bisa Ingrid",
+      "email": "bisa_i@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Bof Gianangelo",
+      "email": "bof.g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Coin Dimitri",
+      "email": "coin_d@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Cortelazzo Piergiorgio",
+      "email": "cortelazzo_p@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Fassino Piero",
+      "email": "fassino_p@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Filini Francesco",
+      "email": "filini_f@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Grippo Valentina",
+      "email": "grippo_v@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Marchetto Aliprandi Marina",
+      "email": "marchetto_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Nordio Carlo",
+      "email": "nordio_c@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Scarpa Rachele",
+      "email": "scarpa_r@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Semenzato Martina",
+      "email": "semenzato_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Bitonci Massimo",
+      "email": "bitonci_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Bonetti Elena",
+      "email": "bonetti_e@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Cappelletti Enrico",
+      "email": "cappelletti_e@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Caretta Maria Cristina",
+      "email": "caretta_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Fontana Lorenzo",
+      "email": "fontana_l@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Gardini Elisabetta",
+      "email": "gardini_e@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Giovine Silvio",
+      "email": "giovine_s@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Lazzarini Arianna",
+      "email": "lazzarini_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Letta Enrico",
+      "email": "letta_e@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Maschio Ciro",
+      "email": "maschio_c@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Mazzi Gianmarco",
+      "email": "mazzi_g@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Morgante Maddalena",
+      "email": "morgante_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Padovani Marco",
+      "email": "padovani_m@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Pretto Erik Umberto",
+      "email": "pretto_e@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Stefani Alberto",
+      "email": "stefani_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Tosi Flavio",
+      "email": "tosi_f@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "UrzÃ¬ Alessandro",
+      "email": "urzi_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Zan Alessandro",
+      "email": "zan_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Zanella Luana",
+      "email": "zanella_l@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Amidei Bartolomeo",
+      "email": "bartolomeo.amidei@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Bernini Anna Maria",
+      "email": "annamaria.bernini@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Bizzotto Mara",
+      "email": "mara.bizzotto@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "De Carlo Luca",
+      "email": "luca.decarlo@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Floridia Aurora",
+      "email": "aurora.floridia@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Gelmetti Matteo",
+      "email": "matteo.gelmetti@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Guidolin Barbara",
+      "email": "barbara.guidolin@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Lorenzin Beatrice",
+      "email": "beatrice.lorenzin@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Martella Andrea",
+      "email": "andrea.martella@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Ostellari Andrea",
+      "email": "andrea.ostellari@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Sbrollini Daniela",
+      "email": "daniela.sbrollini@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Speranzon Raffaele",
+      "email": "raffaele.speranzon@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Stefani Erika",
+      "email": "erika.stefani@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Tosato Paolo",
+      "email": "paolo.tosato@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Urso Adolfo",
+      "email": "adolfo.urso@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Zanettin Pierantonio",
+      "email": "pierantonio.zanettin@senato.it",
+      "camera": "Senato"
+    }
+  ],
+  "CIRCOSCRIZIONI ESTERE": [
+    {
+      "nome": "Billi Simone",
+      "email": "billi_s@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Onori Federica",
+      "email": "onori_f@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Ricciardi Toni",
+      "email": "ricciardi_t@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Di Giuseppe Andrea",
+      "email": "digiuseppe_a@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Di Sanzo Christian Diego",
+      "email": "disanzo_c@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Porta Fabio",
+      "email": "porta_f@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Tirelli Franco",
+      "email": "tirelli_f@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "CarÃ¨ Nicola",
+      "email": "care_n@camera.it",
+      "camera": "Camera"
+    },
+    {
+      "nome": "Giacobbe Francesco",
+      "email": "francesco.giacobbe@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Borghese Mario Alejandro",
+      "email": "mario.borghese@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "La Marca Francesca",
+      "email": "francesca.lamarca@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Crisanti Andrea",
+      "email": "andrea.crisanti@senato.it",
+      "camera": "Senato"
+    }
+  ],
+  "SENATORI A VITA": [
+    {
+      "nome": "Monti Mario",
+      "email": "mario.monti@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Cattaneo Elena",
+      "email": "elena.cattaneo@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Piano Renzo",
+      "email": "renzo.piano@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Rubbia Carlo",
+      "email": "carlo.rubbia@senato.it",
+      "camera": "Senato"
+    },
+    {
+      "nome": "Segre Liliana",
+      "email": "liliana.segre@senato.it",
+      "camera": "Senato"
+    }
+  ]
+};

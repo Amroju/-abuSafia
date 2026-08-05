@@ -27,24 +27,20 @@ document.addEventListener("DOMContentLoaded", () => {
   setupUserForm();
   setupShareModal();
   updateCounter();
+  fetchGlobalCounter();
   applyLang("it");
 });
 
 // ─── Dati ─────────────────────────────────────────────────────────────────────
 async function loadData() {
-  try {
-    const resp = await fetch("parlamentari_by_region.json");
-    parlamentari = await resp.json();
-  } catch (e) {
-    // fallback: avvisa l'utente se fetch fallisce (es. apertura con file://)
-    console.warn(
-      "Impossibile caricare il JSON via fetch. Usa un server statico locale (es. python -m http.server)."
-    );
+  if (typeof window.PARLAMENTARI_DATA !== "undefined") {
+    parlamentari = window.PARLAMENTARI_DATA;
+    populateRegionSelect();
+    buildAllParliamentGroups();
+  } else {
+    console.warn("Dati dei parlamentari non trovati in window.PARLAMENTARI_DATA.");
     showFetchError();
-    return;
   }
-  populateRegionSelect();
-  buildAllParliamentGroups();
 }
 
 function showFetchError() {
@@ -610,6 +606,7 @@ function incrementCounter() {
   emailCounter++;
   localStorage.setItem("emailCounter", emailCounter);
   updateCounter();
+  incrementaContatoreGlobale();
 }
 
 function updateCounter() {
@@ -728,4 +725,51 @@ function setupShareModal() {
 function showShareModal() {
   const modal = document.getElementById('share-modal');
   if (modal) modal.classList.add('is-open');
+}
+
+// --- Contatore Globale Firebase ---
+const FIREBASE_URL = "https://abusafyia-default-rtdb.europe-west1.firebasedatabase.app/counter.json";
+
+async function fetchGlobalCounter() {
+  try {
+    const res = await fetch(FIREBASE_URL);
+    if (!res.ok) return;
+    const data = await res.json();
+    const count = data || 0;
+    const box = document.getElementById("global-counter-box");
+    const val = document.getElementById("global-counter-value");
+    if (box && val && count > 0) {
+      val.textContent = count;
+      box.style.display = "flex";
+    }
+  } catch(e) {
+    // silent fail
+  }
+}
+
+async function incrementaContatoreGlobale() {
+  if (sessionStorage.getItem("azioneGiaContata") === "true") return;
+  sessionStorage.setItem("azioneGiaContata", "true");
+  
+  try {
+    const res = await fetch(FIREBASE_URL);
+    if (!res.ok) return;
+    const data = await res.json();
+    const newCount = (data || 0) + 1;
+    
+    await fetch(FIREBASE_URL, {
+      method: 'PUT',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(newCount)
+    });
+    
+    const val = document.getElementById("global-counter-value");
+    const box = document.getElementById("global-counter-box");
+    if (val && box) {
+      val.textContent = newCount;
+      box.style.display = "flex";
+    }
+  } catch(e) {
+    // silent fail
+  }
 }

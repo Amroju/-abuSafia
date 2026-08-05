@@ -6,9 +6,17 @@
   <title>Liberate il Dott. Hussam Abu Safiya — Campagna diritti umani</title>
   <meta name="description" content="Scrivi ai parlamentari italiani per chiedere il rilascio del Dott. Hussam Abu Safiya, medico direttore dell'ospedale Kamal Adwan, detenuto senza processo da Israele dal 27 dicembre 2024." />
   <meta name="robots" content="index, follow" />
-  <meta property="og:title" content="Liberate il Dott. Hussam Abu Safiya" />
-  <meta property="og:description" content="Medico, direttore dell'ospedale Kamal Adwan a Gaza. Detenuto senza processo dal 27 dicembre 2024. La sua vita è in pericolo immediato." />
-  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Liberate il Dott. Hussam Abu Safiya">
+  <meta property="og:description" content="Medico, direttore dell'ospedale Kamal Adwan a Gaza. Detenuto senza processo dal 27 dicembre 2024, oggi in pericolo di vita.">
+  <meta property="og:image" content="https://amroju.github.io/-abuSafia/og-image.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://amroju.github.io/-abuSafia/">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Liberate il Dott. Hussam Abu Safiya">
+  <meta name="twitter:description" content="Medico, direttore dell'ospedale Kamal Adwan a Gaza. Detenuto senza processo dal 27 dicembre 2024, oggi in pericolo di vita.">
+  <meta name="twitter:image" content="https://amroju.github.io/-abuSafia/og-image.png">
   <link rel="icon" type="image/png" href="favicon.png">
   <link rel="stylesheet" href="style.css" />
   <!-- Preload fonts -->
@@ -222,9 +230,14 @@ L'avvocato Odeh ha presentato un ricorso urgente al Servizio Penitenziario israe
         </div>
 
         <!-- Contatore -->
-        <div class="counter-box" aria-live="polite">
-          <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg>
-          <span id="counter-label" data-i18n="counter_label">Hai generato</span>
+          <div id="global-counter-box" class="counter-box" aria-live="polite" style="display: none; background: rgba(27, 94, 53, 0.1); border-color: rgba(27, 94, 53, 0.2); margin-bottom: 0.5rem;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
+            <span id="global-counter-value" aria-label="Totale partecipanti" style="font-weight: 700; color: var(--green-deep); margin-right: 0.3rem;"></span>
+            <span id="global-counter-label" data-i18n="global_counter_label">Persone hanno già scritto ai parlamentari</span>
+          </div>
+          <div class="counter-box" aria-live="polite">
+            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg>
+            <span id="counter-label" data-i18n="counter_label">Hai generato</span>
           <span id="email-counter" aria-label="Numero di email generate"></span>
         </div>
 
@@ -328,6 +341,7 @@ L'avvocato Odeh ha presentato un ricorso urgente al Servizio Penitenziario israe
   </div>
 
   <script src="i18n.js"></script>
+  <script src="parlamentari_data.js"></script>
   <script src="script.js"></script>
 </body>
 </html>
