@@ -357,7 +357,8 @@ Le chiedo quindi di sollecitare il Governo italiano affinché:
 - chieda il rilascio immediato e incondizionato del dott. Hussam Abu Safiya e degli operatori sanitari palestinesi detenuti arbitrariamente;
 - promuova indagini indipendenti su torture, maltrattamenti, negligenza medica e detenzioni arbitrarie, e sostenga misure concrete perché Israele rispetti il diritto internazionale umanitario e dei diritti umani.
 
-Nella pagina seguente ho raccolto le fonti principali e i dati aggiornati sui detenuti, inclusi il numero di donne e minori palestinesi in prigionia.
+Come confermano i report e i dati pubblicati dalle organizzazioni per i diritti umani, le condizioni dei detenuti palestinesi destano profonda preoccupazione, inclusi i crescenti numeri di donne e minori in prigionia.
+
 
 Le sarei {GRATO_GRATA} se mi comunicasse quali iniziative intende intraprendere.
 
