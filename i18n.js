@@ -366,8 +366,7 @@ Grazie per l'attenzione,
 distinti saluti,
 
 {NAME}
-{ADDRESS}
-{EMAIL}`;
+{ADDRESS}`;
 
 // Esporta
 window.TRANSLATIONS = TRANSLATIONS;

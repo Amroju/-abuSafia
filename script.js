@@ -321,15 +321,14 @@ function updateSelectedEmails(regione) {
 function setupUserForm() {
   const nameInput = document.getElementById("sender-name");
   const addressInput = document.getElementById("sender-address");
-  const emailInput = document.getElementById("sender-email");
-  const genderInputs = Array.from(document.querySelectorAll('input[name="sender-gender"]'));
+  const genderInputs = document.querySelectorAll('input[name="sender-gender"]');
   
-  if (!nameInput || !addressInput || !emailInput) {
+  if (!nameInput || !addressInput) {
     console.error("setupUserForm: Input fields not found in DOM");
     return;
   }
 
-  const inputs = [nameInput, addressInput, emailInput, ...genderInputs];
+  const inputs = [nameInput, addressInput, ...genderInputs];
   const updateRoutine = () => {
     try {
       validateUserData();
@@ -356,8 +355,7 @@ function setupUserForm() {
 function validateUserData() {
   const nameInput = document.getElementById("sender-name");
   const addressInput = document.getElementById("sender-address");
-  const emailInput = document.getElementById("sender-email");
-  if (!nameInput || !addressInput || !emailInput) return;
+  if (!nameInput || !addressInput) return;
   
   let valid = true;
   
@@ -377,16 +375,6 @@ function validateUserData() {
   } else {
     addressInput.classList.remove("error");
     document.getElementById("err-address").style.display = "none";
-  }
-
-  const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-  if (!emailRegex.test(emailInput.value.trim())) {
-    valid = false;
-    emailInput.classList.add("error");
-    document.getElementById("err-email").style.display = "block";
-  } else {
-    emailInput.classList.remove("error");
-    document.getElementById("err-email").style.display = "none";
   }
 
   const genderChecked = document.querySelector('input[name="sender-gender"]:checked');
@@ -420,11 +408,9 @@ function getDynamicEmailBody() {
   
   const nameInput = document.getElementById("sender-name");
   const addressInput = document.getElementById("sender-address");
-  const emailInput = document.getElementById("sender-email");
   
-  const nameVal = (nameInput && nameInput.value.trim() !== "") ? nameInput.value.trim() : "[Il tuo nome]";
-  const addressVal = (addressInput && addressInput.value.trim() !== "") ? addressInput.value.trim() : "[Il tuo indirizzo o codice postale]";
-  const emailVal = (emailInput && emailInput.value.trim() !== "") ? emailInput.value.trim() : "[Il tuo indirizzo email]";
+  const nameVal = (nameInput && nameInput.value.trim() !== "") ? nameInput.value.trim() : "[Nome Cognome]";
+  const addressVal = (addressInput && addressInput.value.trim() !== "") ? addressInput.value.trim() : "[Il tuo Indirizzo]";
 
   const genderChecked = document.querySelector('input[name="sender-gender"]:checked');
   let gratoGrata = "grato/a";
@@ -435,7 +421,6 @@ function getDynamicEmailBody() {
   // Use global regex replacement to ensure ALL occurrences are replaced, even if the template was mutated
   body = body.replace(/{NAME}/g, nameVal);
   body = body.replace(/{ADDRESS}/g, addressVal);
-  body = body.replace(/{EMAIL}/g, emailVal);
   body = body.replace(/{GRATO_GRATA}/g, gratoGrata);
   
   return body;
