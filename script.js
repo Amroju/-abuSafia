@@ -13,7 +13,7 @@ let currentRegione = null;
 let selectedEmails = []; // email selezionate dopo eventuale deselect
 let emailCounter = parseInt(localStorage.getItem("emailCounter") || "0", 10);
 
-const CHUNK_SIZE = 18;
+const CHUNK_SIZE = 30;
 const MAILTO_SAFE_LIMIT = 1800; // caratteri max per il campo To (sicuro cross-browser)
 
 let userFormValid = false;
