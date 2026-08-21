@@ -611,7 +611,7 @@ a:hover { color: var(--color-accent-dark); }
 .action-section .section-label { color: var(--red-crimson); }
 .action-section h2 { color: var(--cream); }
 .action-intro {
-  color: #F5C842;
+  color: #C0392B;
   margin-bottom: 1.75rem;
   font-size: var(--text-base);
 }
@@ -1587,7 +1587,7 @@ footer { position: relative; overflow: hidden; }
   border: 1px solid rgba(192, 57, 43, 0.3);
   border-radius: 10px;
   font-size: 0.88rem;
-  color: #F5C842;
+  color: #C0392B;
   line-height: 1.5;
 }
 .group-hint strong { color: #fff; }
