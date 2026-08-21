@@ -1457,3 +1457,39 @@ footer { position: relative; overflow: hidden; }
     left: 20px;
   }
 }
+
+.action-intro ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 15px;
+}
+.action-intro ul li {
+  position: relative;
+  padding-left: 25px;
+  margin-bottom: 12px;
+  font-size: 1.1rem;
+}
+.action-intro ul li::before {
+  content: '👉';
+  position: absolute;
+  left: 0;
+  top: 2px;
+}
+.action-intro .limit-note {
+  font-size: 0.95rem;
+  color: var(--gold-accent);
+  background: rgba(234, 182, 56, 0.1);
+  padding: 10px;
+  border-radius: 8px;
+  margin-top: 15px;
+  display: block;
+}
+[dir="rtl"] .action-intro ul li {
+  padding-left: 0;
+  padding-right: 25px;
+}
+[dir="rtl"] .action-intro ul li::before {
+  left: auto;
+  right: 0;
+  transform: scaleX(-1);
+}

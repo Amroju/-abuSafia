@@ -74,7 +74,7 @@ function applyLang(lang) {
       if (el.tagName === "INPUT" || el.tagName === "TEXTAREA") {
         el.placeholder = t[key];
       } else {
-        el.textContent = t[key];
+        el.innerHTML = t[key];
       }
     }
   });
