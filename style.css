@@ -1458,38 +1458,123 @@ footer { position: relative; overflow: hidden; }
   }
 }
 
+
+/* ─── Action Intro Step Cards ─────────────────────────────── */
 .action-intro ul {
   list-style: none;
   padding: 0;
-  margin-top: 15px;
+  margin: 1.4rem 0 0 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
 }
+
 .action-intro ul li {
   position: relative;
-  padding-left: 25px;
-  margin-bottom: 12px;
-  font-size: 1.1rem;
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  background: rgba(255,255,255,0.07);
+  border: 1px solid rgba(255,255,255,0.13);
+  border-radius: 14px;
+  padding: 1rem 1.2rem;
+  font-size: 1rem;
+  color: #fff;
+  backdrop-filter: blur(4px);
+  transition: background 0.2s, border-color 0.2s;
+  counter-increment: step-counter;
 }
+
 .action-intro ul li::before {
-  content: '👉';
-  position: absolute;
-  left: 0;
-  top: 2px;
+  content: none;
 }
-.action-intro .limit-note {
-  font-size: 0.95rem;
-  color: var(--gold-accent);
-  background: rgba(234, 182, 56, 0.1);
-  padding: 10px;
-  border-radius: 8px;
-  margin-top: 15px;
+
+.action-intro ul li::after {
+  content: none;
+}
+
+/* Numbered badge */
+.action-intro ul li .step-num {
+  flex-shrink: 0;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: var(--red-crimson);
+  color: #fff;
+  font-family: var(--font-serif);
+  font-size: 1.05rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 8px rgba(192,57,43,0.4);
+  margin-top: 1px;
+}
+
+.action-intro ul li .step-text strong {
   display: block;
+  color: #fff;
+  font-weight: 700;
+  font-size: 1rem;
+  margin-bottom: 0.15rem;
 }
+
+.action-intro ul li .step-text span {
+  color: rgba(255,255,255,0.75);
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
+.action-intro ul li:hover {
+  background: rgba(255,255,255,0.12);
+  border-color: rgba(192,57,43,0.45);
+}
+
+/* Limit note */
+.action-intro .limit-note {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.7rem;
+  background: rgba(192, 57, 43, 0.15);
+  border: 1px solid rgba(192, 57, 43, 0.35);
+  border-radius: 12px;
+  padding: 0.9rem 1.1rem;
+  margin-top: 1.1rem;
+  font-size: 0.9rem;
+  color: #ffd0cc;
+  line-height: 1.5;
+}
+
+.action-intro .limit-note::before {
+  content: "⚠";
+  font-size: 1.1rem;
+  line-height: 1;
+  flex-shrink: 0;
+  margin-top: 1px;
+}
+
+.action-intro .limit-note strong {
+  color: #fff;
+}
+
+/* RTL */
 [dir="rtl"] .action-intro ul li {
-  padding-left: 0;
-  padding-right: 25px;
+  flex-direction: row-reverse;
+  padding-left: 1.2rem;
+  padding-right: 1.2rem;
 }
-[dir="rtl"] .action-intro ul li::before {
-  left: auto;
-  right: 0;
-  transform: scaleX(-1);
+
+[dir="rtl"] .action-intro .limit-note {
+  flex-direction: row-reverse;
+  text-align: right;
 }
+
+@media (max-width: 600px) {
+  .action-intro ul li {
+    padding: 0.85rem 1rem;
+  }
+  .action-intro .limit-note {
+    font-size: 0.85rem;
+  }
+}
+

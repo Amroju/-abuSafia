@@ -69,11 +69,11 @@ const TRANSLATIONS = {
     action_title: "Cosa puoi fare",
     action_intro: `Fai sentire la tua voce ai parlamentari in 3 semplici passi:
       <ul>
-        <li><strong>Seleziona la tua regione:</strong> Trova i rappresentanti del tuo territorio.</li>
-        <li><strong>Personalizza il testo:</strong> Aggiungi il tuo nome e indirizzo per rendere l'appello più forte.</li>
-        <li><strong>Invia con un clic:</strong> Usa i pulsanti per aprire la tua app email e inviare il messaggio.</li>
+        <li><span class="step-num">1</span><span class="step-text"><strong>Seleziona la tua regione</strong><span>Trova i rappresentanti del tuo territorio.</span></span></li>
+        <li><span class="step-num">2</span><span class="step-text"><strong>Personalizza il testo</strong><span>Aggiungi il tuo nome e indirizzo per rendere l'appello più forte.</span></span></li>
+        <li><span class="step-num">3</span><span class="step-text"><strong>Invia con un clic</strong><span>Usa i pulsanti per aprire la tua app email e inviare il messaggio.</span></span></li>
       </ul>
-      <span class="limit-note"><strong>Nota sui gruppi:</strong> Le app di posta bloccano le email con troppi destinatari per evitare lo spam (max 25). Per regioni grandi come il Lazio, troverai più pulsanti (es. Gruppo 1, Gruppo 2). <strong>Cliccali tutti</strong> per assicurarti che ogni parlamentare riceva il tuo messaggio!</span>`,
+      <span class="limit-note"><strong>Nota sui gruppi:</strong> Le app di posta bloccano le email con troppi destinatari (max 25). Per regioni grandi come il Lazio, troverai più pulsanti. <strong>Cliccali tutti</strong> per assicurarti che ogni parlamentare riceva il tuo messaggio!</span>`,
     region_label: "Seleziona la tua regione",
     region_placeholder: "— Scegli una regione —",
     recipients_info: "Il messaggio sarà inviato a",
@@ -184,11 +184,11 @@ const TRANSLATIONS = {
     action_title: "What you can do",
     action_intro: `Make your voice heard by MPs in 3 simple steps:
       <ul>
-        <li><strong>Select your region:</strong> Find the representatives for your area.</li>
-        <li><strong>Customize the text:</strong> Add your name and address to make the appeal stronger.</li>
-        <li><strong>Send with one click:</strong> Use the buttons to open your email app and send the message.</li>
+        <li><span class="step-num">1</span><span class="step-text"><strong>Select your region</strong><span>Find the representatives for your area.</span></span></li>
+        <li><span class="step-num">2</span><span class="step-text"><strong>Customize the text</strong><span>Add your name and address to make the appeal stronger.</span></span></li>
+        <li><span class="step-num">3</span><span class="step-text"><strong>Send with one click</strong><span>Use the buttons to open your email app and send. (Note: email is in Italian)</span></span></li>
       </ul>
-      <span class="limit-note"><strong>Note on groups:</strong> Email apps block messages with too many recipients to prevent spam (max 25). For large regions like Lazio, you will find multiple buttons (e.g. Group 1, Group 2). <strong>Click all of them</strong> to ensure every MP receives your message! (Note: The email body is in Italian)</span>`,
+      <span class="limit-note"><strong>Note on groups:</strong> Email apps block messages with too many recipients (max 25). For large regions like Lazio, you will find multiple buttons. <strong>Click all of them</strong> to ensure every MP receives your message!</span>`,
     region_label: "Select your region",
     region_placeholder: "— Choose a region —",
     recipients_info: "The message will be sent to",
@@ -300,11 +300,11 @@ const TRANSLATIONS = {
     action_title: "ماذا يمكنك أن تفعل",
     action_intro: `أوصل صوتك للمسؤولين بثلاث خطوات بسيطة:
       <ul>
-        <li><strong>اختر منطقتك:</strong> للوصول إلى ممثلي منطقتك في البرلمان.</li>
-        <li><strong>خصص الرسالة:</strong> أضف اسمك وعنوانك لجعل الرسالة أقوى وأكثر تأثيراً.</li>
-        <li><strong>أرسل بضغطة زر:</strong> استخدم الأزرار لفتح تطبيق الإيميل الخاص بك وإرسال الرسالة.</li>
+        <li><span class="step-num">١</span><span class="step-text"><strong>اختر منطقتك</strong><span>للوصول إلى ممثلي منطقتك في البرلمان.</span></span></li>
+        <li><span class="step-num">٢</span><span class="step-text"><strong>خصص الرسالة</strong><span>أضف اسمك وعنوانك لجعل الرسالة أقوى وأكثر تأثيراً.</span></span></li>
+        <li><span class="step-num">٣</span><span class="step-text"><strong>أرسل بضغطة زر</strong><span>استخدم الأزرار لفتح تطبيق الإيميل وإرسال الرسالة. (ملاحظة: نص الإيميل بالإيطالية)</span></span></li>
       </ul>
-      <span class="limit-note"><strong>ملاحظة هامة (المجموعات):</strong> تطبيقات الإيميل تمنع إرسال رسالة لعدد كبير من الأشخاص دفعة واحدة لتجنب البريد المزعج (الحد الأقصى 25 شخص). لذلك في المناطق الكبيرة مثل (لاتسيو)، ستجد عدة أزرار للإرسال (مجموعة 1، مجموعة 2..). <strong>الرجاء الضغط عليها كلها</strong> لضمان وصول رسالتك لجميع المسؤولين! (ملاحظة: نص الإيميل سيكون باللغة الإيطالية)</span>`,
+      <span class="limit-note"><strong>ملاحظة هامة (المجموعات):</strong> تطبيقات الإيميل تمنع إرسال رسالة لعدد كبير دفعة واحدة (الحد الأقصى 25). في المناطق الكبيرة ستجد عدة أزرار للإرسال. <strong>اضغط عليها كلها</strong> لضمان وصول رسالتك لجميع المسؤولين!</span>`,
     region_label: "اختر منطقتك",
     region_placeholder: "— اختر منطقة —",
     recipients_info: "ستُرسل الرسالة إلى",
