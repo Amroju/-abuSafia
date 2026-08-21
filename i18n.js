@@ -72,8 +72,7 @@ const TRANSLATIONS = {
         <li><span class="step-num">1</span><span class="step-text"><strong>Seleziona la tua regione</strong><span>Trova i rappresentanti del tuo territorio.</span></span></li>
         <li><span class="step-num">2</span><span class="step-text"><strong>Personalizza il testo</strong><span>Aggiungi il tuo nome e indirizzo per rendere l'appello più forte.</span></span></li>
         <li><span class="step-num">3</span><span class="step-text"><strong>Invia con un clic</strong><span>Usa i pulsanti per aprire la tua app email e inviare il messaggio.</span></span></li>
-      </ul>
-      <span class="limit-note"><strong>Nota sui gruppi:</strong> Le app di posta bloccano le email con troppi destinatari (max 25). Per regioni grandi come il Lazio, troverai più pulsanti. <strong>Cliccali tutti</strong> per assicurarti che ogni parlamentare riceva il tuo messaggio!</span>`,
+      </ul>`,
     region_label: "Seleziona la tua regione",
     region_placeholder: "— Scegli una regione —",
     recipients_info: "Il messaggio sarà inviato a",
@@ -91,6 +90,7 @@ const TRANSLATIONS = {
     counter_label: "Hai generato",
     counter_suffix: "email da questo dispositivo",
     global_counter_label: "Persone hanno già scritto ai parlamentari",
+    group_hint: "⚠️ Questa regione ha più gruppi. <strong>Clicca ogni pulsante</strong> per essere sicuro che tutti i parlamentari ricevano il tuo messaggio.",
     camera_label: "Camera",
     senate_label: "Senato",
     deselect_all: "Deseleziona tutti",
@@ -187,8 +187,7 @@ const TRANSLATIONS = {
         <li><span class="step-num">1</span><span class="step-text"><strong>Select your region</strong><span>Find the representatives for your area.</span></span></li>
         <li><span class="step-num">2</span><span class="step-text"><strong>Customize the text</strong><span>Add your name and address to make the appeal stronger.</span></span></li>
         <li><span class="step-num">3</span><span class="step-text"><strong>Send with one click</strong><span>Use the buttons to open your email app and send. (Note: email is in Italian)</span></span></li>
-      </ul>
-      <span class="limit-note"><strong>Note on groups:</strong> Email apps block messages with too many recipients (max 25). For large regions like Lazio, you will find multiple buttons. <strong>Click all of them</strong> to ensure every MP receives your message!</span>`,
+      </ul>`,
     region_label: "Select your region",
     region_placeholder: "— Choose a region —",
     recipients_info: "The message will be sent to",
@@ -206,6 +205,7 @@ const TRANSLATIONS = {
     counter_label: "You have generated",
     counter_suffix: "emails from this device",
     global_counter_label: "People have already written to MPs",
+    group_hint: "⚠️ This region has multiple groups. <strong>Click each button</strong> to make sure all MPs receive your message.",
     camera_label: "Chamber",
     senate_label: "Senate",
     deselect_all: "Deselect all",
@@ -303,8 +303,7 @@ const TRANSLATIONS = {
         <li><span class="step-num">١</span><span class="step-text"><strong>اختر منطقتك</strong><span>للوصول إلى ممثلي منطقتك في البرلمان.</span></span></li>
         <li><span class="step-num">٢</span><span class="step-text"><strong>خصص الرسالة</strong><span>أضف اسمك وعنوانك لجعل الرسالة أقوى وأكثر تأثيراً.</span></span></li>
         <li><span class="step-num">٣</span><span class="step-text"><strong>أرسل بضغطة زر</strong><span>استخدم الأزرار لفتح تطبيق الإيميل وإرسال الرسالة. (ملاحظة: نص الإيميل بالإيطالية)</span></span></li>
-      </ul>
-      <span class="limit-note"><strong>ملاحظة هامة (المجموعات):</strong> تطبيقات الإيميل تمنع إرسال رسالة لعدد كبير دفعة واحدة (الحد الأقصى 25). في المناطق الكبيرة ستجد عدة أزرار للإرسال. <strong>اضغط عليها كلها</strong> لضمان وصول رسالتك لجميع المسؤولين!</span>`,
+      </ul>`,
     region_label: "اختر منطقتك",
     region_placeholder: "— اختر منطقة —",
     recipients_info: "ستُرسل الرسالة إلى",
@@ -322,6 +321,7 @@ const TRANSLATIONS = {
     counter_label: "لقد أنشأت",
     counter_suffix: "رسالة من هذا الجهاز",
     global_counter_label: "أشخاص أرسلوا للمسؤولين بالفعل",
+    group_hint: "⚠️ هذه المنطقة تحتوي على عدة مجموعات. <strong>اضغط على كل زر</strong> لضمان وصول رسالتك لجميع المسؤولين.",
     camera_label: "مجلس النواب",
     senate_label: "مجلس الشيوخ",
     deselect_all: "إلغاء تحديد الكل",

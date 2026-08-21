@@ -1578,3 +1578,17 @@ footer { position: relative; overflow: hidden; }
   }
 }
 
+
+/* ─── Group hint (shown below send buttons when > 1 group) ── */
+.group-hint {
+  margin-top: 0.7rem;
+  padding: 0.7rem 1rem;
+  background: rgba(192, 57, 43, 0.12);
+  border: 1px solid rgba(192, 57, 43, 0.3);
+  border-radius: 10px;
+  font-size: 0.88rem;
+  color: #ffd0cc;
+  line-height: 1.5;
+}
+.group-hint strong { color: #fff; }
+[dir="rtl"] .group-hint { text-align: right; }

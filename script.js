@@ -532,6 +532,18 @@ function renderSendButtons(lista, regione, emailsOverride) {
   
   // Dopo aver generato i bottoni, applica lo stato corretto
   validateUserData();
+
+  // Show group hint if multiple chunks
+  var hint = document.getElementById('group-hint');
+  if (hint) {
+    var tHint = window.TRANSLATIONS[currentLang];
+    if (chunks.length > 1) {
+      hint.innerHTML = tHint && tHint.group_hint ? tHint.group_hint : '';
+      hint.style.display = 'block';
+    } else {
+      hint.style.display = 'none';
+    }
+  }
 }
 
 // ─── Tutti i parlamentari ─────────────────────────────────────────────────────
